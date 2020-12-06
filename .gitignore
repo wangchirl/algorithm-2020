@@ -1,0 +1,12 @@
+﻿# idea ignore
+.idea
+.gradle/
+out/
+build/
+log/
+
+
+
+
+
+
